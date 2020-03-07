@@ -1,0 +1,10 @@
+arnaud@arnaud-Dell ~/Téléchargements/Rstudio $ gpg --keyserver keys.gnupg.net --recv-keys 3F32EE77E331692F
+gpg: demande de la clef E331692F sur le serveur hkp keys.gnupg.net
+gpg: clef E331692F : « RStudio, Inc. (code signing) <info@rstudio.com> » n'est pas modifiée
+gpg: Quantité totale traitée : 1
+gpg:              non modifiées : 1
+
+arnaud@arnaud-Dell ~/Téléchargements/Rstudio $ dpkg-sig --verify rstudio-1.2.5019-amd64.deb 
+Processing rstudio-1.2.5019-amd64.deb...
+GOODSIG _gpgbuilder FE8564CFF1AB93F1728645193F32EE77E331692F 1571936915
+
