@@ -1,58 +1,32 @@
+** English **
+
+This simulator of the Swiss retirement system aims to give a reliable and non-partisan estimate of the deficit in Swiss Old Age and Survivors Insurance (AVS). At present the Federal Office of Social Insurance (OFAS) is making public the financial perspectives of Old Age and Survivors Insurance. However, this simulation is based on questionable calculation hypotheses. These economic forecasts do not take into account the results of my Apocalypse Dynamics model at all.
+
+This is why I propose to develop a new simulator. On the one hand, it is based on the results of the Apocalypse Dynamics model in order to feed the retirement simulator with more realistic economic growth hypotheses than the official hypotheses. On the other hand it is open-source and relies on the source code of the official simulator. Everyone is free to study, comment and contribute.
+
+This simulator offers Switzerland a counter-expertise tool which enables it to better orient its public policies. It allows it to make more relevant choices regarding the management of AVS finances, beyond the partisan ideologies of the various stakeholders in the pension system.
+
+
 **French**
 
-Ce simulateur du système des retraites Suisses a pour objectif de donner une estimation fiable et non partisane du déficit des Assurances Vieillesses et Survivants (AVS) suisses. A l'heure actuelle (qui ?) mets déjà à disposition du public un simulateur du système des Assurances Vieillesses et Survivants sur son site. Cependant ce simulateur souffre de plusieurs écueils:
+Ce simulateur du système des retraites Suisses a pour objectif de donner une estimation fiable et non partisane du déficit de l'Assurance Vieillesse et Survivants (AVS) suisses. A l'heure actuelle l'Office Fédéral des Assurances  Sociales (OFAS)  rends publique les perspectives  financières de l'Assurance Vieillesse et Survivants. Cependant cette simulation s'appuie sur des hypothèses de calcul discutables.  Ces prévisions économiques ne tiennent pas du tout compte des résultats de mon modèle Apocalypse Dynamics.
 
- - concernant les hypothèses de calcul.
- En effet les hypothèses de croissance économiques sont basées sur les prévisions (de qui ?). Ces prévisions économiques ne tiennent pas du tout compte des résultats du modèle Apocalypse Dynamics.
+C'est pouquoi je propose d'élaborer un nouveau simulateur. Il s'appuie d'une part sur les résultats du modèle Apocalypse Dynamics afin d'alimenter le simulateur des retraites avec des hypothèses de croissance économique plus réalistes que les hypothèses officielles. D'autre part il est open-source et s'appuie sur le code source du simulateur officiel. Ainsi tout un chacun est libre d'étudier, de commenter et de contribuer.
 
- 
- - concernant la légitimité (de  ? , l'institut qui publie les prévisions officielles).
-En effet le ( institu officiel ) est placé sous la tutelle ( de qui ?) . Pour certains cela présente un conflit d'intérêt qui menace l'objectivité des rapports fournis par ( ? l'institut publique).
-
-Pour toutes ces raisons, je propose d'élaborer un nouveau simulateur. Il s'appuie d'une part sur les résultats du modèle Apocalypse Dynamics afin d'alimenter le simulateur des retraites avec des hypothèses de croissance économique plus réalistes que les hypothèses officielles. D'autre part il est open-source et s'appuie sur la documentation technique mise à disposition pour le simulateur officiel. Ainsi tout un chacun est libre d'étudier, de commenter et de contribuer.
-
-Ce simulateur offre à la France un outil d'aide à la décision transparent qui lui permet de mieux orienter ses politiques publiques. Il lui permet de faire des choix plus pertinents concernant la gestion des finances publiques, au-delà des idéologies partisanes des différents parties prenantes du système des retraites françaises.
+Ce simulateur offre à la Suisse un outil de contre-expertise qui lui permet de mieux orienter ses politiques publiques. Il lui permet de faire des choix plus pertinents concernant la gestion des finances de l'AVS, au-delà des idéologies partisanes des différents parties prenantes au système des retraites.
 
 **German**
 
-Dieser Simulator des Schweizer Rentensystems soll eine verlässliche und überparteiliche Schätzung des Defizits der Schweizerischen Alters- und Hinterbliebenenversicherung (AVS) liefern. Gegenwärtig (wer?) Wird bereits ein Simulator des Systems der Alters- und Hinterbliebenenversicherung auf seiner Website der Öffentlichkeit zugänglich gemacht. Dieser Simulator hat jedoch einige Nachteile:
+Dieser Simulator des Schweizer Rentensystems soll eine verlässliche und unparteiische Schätzung des Defizits in der Schweizer Alters- und Hinterbliebenenversicherung (AVS) liefern. Derzeit veröffentlicht das Bundesamt für Sozialversicherung (OFAS) die finanziellen Perspektiven der Alters- und Hinterbliebenenversicherung. Diese Simulation basiert jedoch auf fragwürdigen Berechnungshypothesen. Diese Wirtschaftsprognosen berücksichtigen die Ergebnisse meines Apocalypse Dynamics-Modells überhaupt nicht.
 
- - zu den Berechnungshypothesen.
- Tatsächlich basieren die Annahmen zum Wirtschaftswachstum auf Prognosen (von wem?). Diese Wirtschaftsprognosen berücksichtigen die Ergebnisse des Apocalypse Dynamics-Modells überhaupt nicht.
+Deshalb schlage ich vor, einen neuen Simulator zu entwickeln. Einerseits basiert es auf den Ergebnissen des Apocalypse Dynamics-Modells, um dem Rentensimulator realistischere Hypothesen für das Wirtschaftswachstum als die offiziellen Hypothesen zu liefern. Andererseits ist es Open Source und basiert auf dem Quellcode des offiziellen Simulators. Jeder kann studieren, kommentieren und Beiträge leisten.
 
- - zur Legitimität (des Instituts, das die offiziellen Prognosen veröffentlicht).
-In der Tat wird die (offizielle Institution) unter die Aufsicht gestellt (von wem?). Für einige stellt dies einen Interessenkonflikt dar, der die Objektivität der Berichte des "öffentlichen Instituts" gefährdet.
-
-Aus all diesen Gründen schlage ich vor, einen neuen Simulator zu entwickeln. Es stützt sich auf die Ergebnisse des Apocalypse Dynamics-Modells, um den Rentensimulator mit realistischeren Annahmen zum Wirtschaftswachstum als den offiziellen Annahmen zu versorgen. Andererseits ist es Open Source und stützt sich auf die technische Dokumentation, die für den offiziellen Simulator zur Verfügung gestellt wird. Somit steht es jedem frei zu studieren, zu kommentieren und beizutragen.
-
-Dieser Simulator bietet Frankreich ein transparentes Tool zur Entscheidungsunterstützung, mit dem es seine öffentlichen Richtlinien besser steuern kann. Sie ermöglicht es ihr, über die parteipolitischen Ideologien der verschiedenen Akteure des französischen Rentensystems hinaus relevantere Entscheidungen in Bezug auf die Verwaltung der öffentlichen Finanzen zu treffen.
+Dieser Simulator bietet der Schweiz ein Gegenkompetenz-Tool, mit dem sie ihre öffentliche Politik besser ausrichten kann. Es ermöglicht ihm, relevantere Entscheidungen hinsichtlich der Verwaltung der AVS-Finanzen zu treffen, die über die parteipolitischen Ideologien der verschiedenen Akteure des Rentensystems hinausgehen.
 
 **Ialian**
 
-Questo simulatore del sistema pensionistico svizzero mira a fornire una stima attendibile e non parziale del deficit dell'assicurazione svizzera per la vecchiaia e i superstiti (AVS). Al momento (chi?) Ha già messo a disposizione del pubblico un simulatore del sistema assicurativo di vecchiaia e superstiti sul suo sito. Tuttavia, questo simulatore soffre di diverse insidie:
+Questo simulatore del sistema pensionistico svizzero mira a fornire una stima attendibile e non parziale del deficit dell'assicurazione svizzera per vecchiaia e superstiti (AVS). Attualmente l'Ufficio federale delle assicurazioni sociali (OFAS) sta rendendo pubbliche le prospettive finanziarie dell'assicurazione per la vecchiaia e i superstiti. Tuttavia, questa simulazione si basa su ipotesi di calcolo discutibili. Queste previsioni economiche non tengono affatto conto dei risultati del mio modello di Apocalypse Dynamics.
 
- - per quanto riguarda le ipotesi di calcolo.
- In effetti, le ipotesi di crescita economica si basano su previsioni (da chi?). Queste previsioni economiche non tengono affatto conto dei risultati del modello di Apocalypse Dynamics.
+Questo è il motivo per cui propongo di sviluppare un nuovo simulatore. Da un lato, si basa sui risultati del modello Apocalypse Dynamics al fine di alimentare il simulatore di pensionamento con ipotesi di crescita economica più realistiche rispetto alle ipotesi ufficiali. D'altra parte è open source e si basa sul codice sorgente del simulatore ufficiale. Tutti sono liberi di studiare, commentare e contribuire.
 
- - riguardante la legittimità (di?, l'istituto che pubblica le previsioni ufficiali).
-In effetti, l '(istituto ufficiale) è posto sotto la tutela (di chi?). Per alcuni, ciò presenta un conflitto di interessi che minaccia l'obiettività delle relazioni fornite dall '"istituto pubblico".
-
-Per tutti questi motivi, propongo di sviluppare un nuovo simulatore. Si basa sui risultati del modello di Apocalypse Dynamics per alimentare il simulatore delle pensioni con ipotesi di crescita economica più realistiche rispetto alle ipotesi ufficiali. D'altra parte è open-source e si basa sulla documentazione tecnica resa disponibile per il simulatore ufficiale. Quindi tutti sono liberi di studiare, commentare e contribuire.
-
-Questo simulatore offre alla Francia uno strumento di supporto decisionale trasparente che le consente di guidare meglio le sue politiche pubbliche. Le consente di effettuare scelte più pertinenti in merito alla gestione delle finanze pubbliche, al di là delle ideologie partigiane dei vari soggetti interessati del sistema pensionistico francese.
-
-
-**English**
-
-This simulator of the Swiss pension system aims to give a reliable and non-partisan estimate of the deficit of Swiss Old Age and Survivors Insurance (AVS). At present (who?) Already make available to the public a simulator of the system of Insurance Old Age and Survivors on its site. However, this simulator suffers from several pitfalls:
-
- - concerning the calculation hypotheses.
- Indeed economic growth assumptions are based on forecasts (from whom?). These economic forecasts do not take into account the results of the Apocalypse Dynamics model at all.
-
- - concerning the legitimacy (of?, the institute which publishes the official forecasts).
-Indeed, the (official institution) is placed under the tutelage (of whom?). For some, this presents a conflict of interest that threatens the objectivity of the reports provided by the "public institute".
-
-For all these reasons, I propose to develop a new simulator. It relies on the results of the Apocalypse Dynamics model to feed the pension simulator with more realistic economic growth assumptions than the official assumptions. On the other hand it is open-source and relies on the technical documentation made available for the official simulator. Thus everyone is free to study, comment and contribute.
-
-This simulator offers France a transparent decision support tool that allows it to better guide its public policies. It enables it to make more relevant choices concerning the management of public finances, beyond the partisan ideologies of the various stakeholders of the French pension system.
-
+Questo simulatore offre alla Svizzera uno strumento di contro-competenza che le consente di orientare meglio le sue politiche pubbliche. Gli consente di fare scelte più rilevanti in merito alla gestione delle finanze AVS, al di là delle ideologie partigiane dei vari stakeholder nel sistema pensionistico.
