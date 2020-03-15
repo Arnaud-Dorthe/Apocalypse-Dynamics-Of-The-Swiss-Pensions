@@ -1,4 +1,4 @@
-** English **
+**English**
 
 This simulator of the Swiss retirement system aims to give a reliable and non-partisan estimate of the deficit in Swiss Old Age and Survivors Insurance (AVS). At present the Federal Office of Social Insurance (OFAS) is making public the financial perspectives of Old Age and Survivors Insurance. However, this simulation is based on questionable calculation hypotheses. These economic forecasts do not take into account the results of my Apocalypse Dynamics model at all.
 
