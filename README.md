@@ -1,6 +1,6 @@
 **English**
 
-This simulator of the Swiss Old-Age Insurance System (OASI) aims to give a reliable and non-partisan estimate of the OASI  collapse. At present the Federal Office of Social Insurance (OFAS) is making public the financial perspectives of the OASI. However, this simulation is based on questionable calculation hypotheses. These economic forecasts do not take into account the results of my Apocalypse Dynamics model at all.
+This simulator of the Swiss Old-Age Insurance System (OASI) aims to give a reliable and non-partisan estimate of the OASI  collapse. At present the Federal Social Insurance Office  (FSIO) is making public the financial perspectives of the OASI. However, this simulation is based on questionable calculation hypotheses. These economic forecasts do not take into account the results of my Apocalypse Dynamics model at all.
 
 This is why I propose to develop a new simulator. On the one hand, it is based on the results of the Apocalypse Dynamics model in order to feed the retirement simulator with more realistic economic growth hypotheses than the official hypotheses. On the other hand it is open-source and relies on the source code of the official simulator. Everyone is free to study, comment and contribute.
 
@@ -17,7 +17,7 @@ Ce simulateur offre à la Suisse un outil de contre-expertise qui lui permet de 
 
 **German**
 
-Dieser Simulator des Schweizer Alters- und Hinterlassenenversicherung (AHV) soll eine verlässliche und unparteiische Schätzung des Defizits in der Schweizer AHV liefern. Derzeit veröffentlicht das Bundesamt für Sozialversicherung (OFAS) die finanziellen Perspektiven der AHV. Diese Simulation basiert jedoch auf fragwürdigen Berechnungshypothesen. Diese Wirtschaftsprognosen berücksichtigen die Ergebnisse meines Apocalypse Dynamics-Modells überhaupt nicht.
+Dieser Simulator des Schweizer Alters- und Hinterlassenenversicherung (AHV) soll eine verlässliche und unparteiische Schätzung des Defizits in der Schweizer AHV liefern. Derzeit veröffentlicht das Bundesamt für Sozialversicherungen (BSV) die finanziellen Perspektiven der AHV. Diese Simulation basiert jedoch auf fragwürdigen Berechnungshypothesen. Diese Wirtschaftsprognosen berücksichtigen die Ergebnisse meines Apocalypse Dynamics-Modells überhaupt nicht.
 
 Deshalb schlage ich vor, einen neuen Simulator zu entwickeln. Einerseits basiert es auf den Ergebnissen des Apocalypse Dynamics-Modells, um dem Rentensimulator realistischere Hypothesen für das Wirtschaftswachstum als die offiziellen Hypothesen zu liefern. Andererseits ist es Open Source und basiert auf dem Quellcode des offiziellen Simulators. Jeder kann studieren, kommentieren und Beiträge leisten.
 
@@ -25,7 +25,7 @@ Dieser Simulator bietet der Schweiz ein Gegenkompetenz-Tool, mit dem sie ihre ö
 
 **Ialian**
 
-Questo simulatore dell'Assicurazione Vecchiaia e Superstiti (AVS) svizzero mira a fornire una stima attendibile e non parziale del deficit dell'AVS. Attualmente l'Ufficio federale delle assicurazioni sociali (OFAS) sta rendendo pubbliche le prospettive finanziarie dell'AVS. Tuttavia, questa simulazione si basa su ipotesi di calcolo discutibili. Queste previsioni economiche non tengono affatto conto dei risultati del mio modello di Apocalypse Dynamics.
+Questo simulatore dell'Assicurazione Vecchiaia e Superstiti (AVS) svizzero mira a fornire una stima attendibile e non parziale del deficit dell'AVS. Attualmente l'Ufficio Federale delle Assicurazioni Sociali (UFAS) sta rendendo pubbliche le prospettive finanziarie dell'AVS. Tuttavia, questa simulazione si basa su ipotesi di calcolo discutibili. Queste previsioni economiche non tengono affatto conto dei risultati del mio modello di Apocalypse Dynamics.
 
 Questo è il motivo per cui propongo di sviluppare un nuovo simulatore. Da un lato, si basa sui risultati del modello Apocalypse Dynamics al fine di alimentare il simulatore di pensionamento con ipotesi di crescita economica più realistiche rispetto alle ipotesi ufficiali. D'altra parte è open source e si basa sul codice sorgente del simulatore ufficiale. Tutti sono liberi di studiare, commentare e contribuire.
 
